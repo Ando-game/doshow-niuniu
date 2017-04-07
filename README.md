@@ -1,2 +1,2 @@
-# doshow-niuniu
+# 都秀逗牛牛
 A chess game
